@@ -17,7 +17,7 @@
 - $ `pkg install python2`
 - $ `pkg install git`
 - $ `pkg install figlet`
-- $ `git clone https://github.com/NaomyValen/DdosNih.git`
+- $ `git clone https://github.com/NaomyValen/DdosTest`
 - $ `cd DdosTest`
 - $ `chmod +x DdosTest.py`
 - $ `python2 DdosTest.py`
