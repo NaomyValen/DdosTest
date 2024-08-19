@@ -18,14 +18,14 @@
 - $ `pkg install git`
 - $ `pkg install figlet`
 - $ `git clone https://github.com/NaomyValen/DdosNih.git`
-- $ `cd V-DdoS`
-- $ `chmod +x V-DdoS.py`
-- $ `python2 V-DdoS.py`
+- $ `cd DdosTest`
+- $ `chmod +x DdosTest.py`
+- $ `python2 DdosTest.py`
 
 <p><b>Selanjutnya</b></p>
 
-- $ `cd V-DdoS`
-- $ `python2 V-DdoS.py`
+- $ `cd DdosTest`
+- $ `python2 DdosTest.py`
 
 <p><b><i> Pemasangan & Penyiapan Alat Anda Selesai!!..Sekarang Buka Google & Telusuri `Pencari IP Situs Web`<b><i>Sekarang Buka Situs Web Pertama & Tempatkan Url Situs Web Target Anda, misalnya www.biribaba.com..</b></i></p>
 
